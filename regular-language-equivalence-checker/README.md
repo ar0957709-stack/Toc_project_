@@ -6,16 +6,7 @@
 
 A tool that decides whether two regular languages, given as **regular expressions, NFAs or DFAs**, are equivalent. When they differ, it prints the **shortest distinguishing string** as a counter-example.
 
-> Theory of Computation (24B11CS212) project, Jaypee Institute of Information Technology, Noida.
-> Teacher in-charge: Ritika Chaudhary
 
-## Team
-
-| Enrollment No. | Name |
-| --- | --- |
-| 2501030225 (B5) | Abhijeet Rao |
-| 2501030369 (B5) | Kaustub Thakur |
-| 2501030253 (B6) | Avi Tyagi |
 
 ## How it works
 
