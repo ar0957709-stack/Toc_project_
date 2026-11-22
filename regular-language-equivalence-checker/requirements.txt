@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Optional: install Graphviz (https://graphviz.org) to render .dot files to .png

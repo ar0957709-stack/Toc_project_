@@ -1,0 +1,11 @@
+{
+  "type": "dfa",
+  "alphabet": ["a", "b"],
+  "states": ["even", "odd"],
+  "start": "even",
+  "accepting": ["even"],
+  "transitions": {
+    "even": {"a": "odd",  "b": "even"},
+    "odd":  {"a": "even", "b": "odd"}
+  }
+}
